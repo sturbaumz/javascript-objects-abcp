@@ -9,4 +9,4 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return playlist
 }
 
-updatePlaylist(playlist, 'Slowdive')
+updatePlaylist(playlist, 'Slowdive', 'song')
