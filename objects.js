@@ -1,7 +1,10 @@
 
 var playlist = {
   Switchfoot: 'Gravity',
-  'Florence and the Machine': 'Dog Days'
+  'Florence and the Machine': 'Dog Days',
+  'Slowdive': , ''
+  'My Bloody Valentine': , ''
+  'Phil Ochs': ''
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
