@@ -1,7 +1,7 @@
-var playlist = {
+var playlist = [
   Switchfoot: Gravity,
   'Florence and the Machine': 'Dog Days'
-}
+]
 
 function updatePlaylist(playlist, artist, song) {
   // Remember, because one of this function's arguments
